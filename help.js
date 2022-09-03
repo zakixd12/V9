@@ -337,5 +337,5 @@ return `*DONASI BOT*
 ➭ Pulsa : 0895-0621-9231
     
 *Qris All Payment :*
-https://telegra.ph/file/d015def9028eb1c0a156b.jpg`
+https://telegra.ph/1661050632697jpg-09-03`
 }
